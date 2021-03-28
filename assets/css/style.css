@@ -1316,7 +1316,7 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
 }
 
 .footer_link .link {
-  margin-top: 20px;
+  margin-top: 2px;
 }
 
 .footer_link .link li a {
@@ -1344,13 +1344,13 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
 }
 
 .footer_social .social li a {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: #288FAE;
   width: 35px;
   height: 35px;
   line-height: 35px;
   text-align: center;
   font-size: 16px;
-  color: #fff;
+  color: white;
   border-radius: 50%;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
